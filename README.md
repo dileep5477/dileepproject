@@ -10,3 +10,10 @@ Cliquelog IT Solutions provides SEO Optimization, Ecommerce, Branding, Digital M
 
 #Current IT Setup:
 Currently, Cliquelog IT Solutions has employees with a variety of experiences, including.NET Core, Xamarin, and cloud native development using Microsoft Azure or AWS. Additionally, they have a strong Java development team that works on enterprise solutions, public and private cloud hosted applications, web apps, IT solutions, and more. They can also create solutions that run on any OS that supports JVM.
+With a variety of JavaScript frameworks and modules, including full stack web products built with Node.js, their developers create native frontend solutions. They also deploy their Node.js development services from full stack Node.js and cloud hosted apps with Azure, GCP, or AWS to responsive web app development to meet customers goals. 
+Cliquelog IT Solutions uses the latest operating system of Linux. Linux is extremely flexible and based on a modular design that enables users to modify their own versions of Linux. Depending on the application, Linux may be optimized for multiple goals such as:
+•	networking performance, 
+•	compute performance, 
+•	deployment on some hardware platforms and 
+•	deployment on systems with restricted memory, storage, or processing resources.
+The organization is using this version right now and there is no security problem has been identified in it. As this organization handles a significant quantity of client’s data, the privacy element is a great problem for them that is why antivirus software is important to put in the operating system. Being informed about those is essential because security and informational elements change daily, and data loss could result from an out-of-date system. Security is the second most crucial element so e very small or medium organization can benefit from taking some steps to increase business security.
