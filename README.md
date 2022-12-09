@@ -1,6 +1,8 @@
 # Name: Dileep Reddy Gopu, Student Id: 10622720
 Company Name: Cliquelog IT Solutions.
 
+Since 2007, cloud computing appeared as a popular concept, and several businesses started experimenting with its application. Including its flexibility of use, affordability, great scalability, and other benefits, cloud computing enables businesses from the demanding administration and upkeep of their IT infrastructure. As a result of cloud computing, the Internet has become a new computer platform. Most of the business are showing interest towards Cloud Computing because cloud platforms offer some significant benefits such as, speed, cost, scalability, accessibility and better security. As a research Cliquelog IT Solutions is selected for investigating the effectiveness of cloud and non-cloud-based solutions. These assesment will explore the current IT setup of the selected company along with proposing recommendations for service level and other aspects of cloud infrastructure.
+
 #Background of Enterprise:
 Cliquelog IT Solutions is a company that offers digital services with over 50+ brilliant employees and few offices in India. 
 They began as a website development firm in 2013, created websites, software applications, and extended into a business for the IT industry. 
