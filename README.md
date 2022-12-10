@@ -2,6 +2,7 @@
 # Company Name: Cliquelog IT Solutions.
 <img src="https://cliquelog.com/wp-content/uploads/elementor/thumbs/cliquelog-signwall-oyvwlw125npe13qltid8xm5gulsl3t8a2kz09hypww.jpg">
 
+# Introduction:
 Since 2007, cloud computing appeared as a popular concept, and several businesses started experimenting with its application. Including its flexibility of use, affordability, great scalability, and other benefits, cloud computing enables businesses from the demanding administration and upkeep of their IT infrastructure. As a result of cloud computing, the Internet has become a new computer platform. Most of the business are showing interest towards Cloud Computing because cloud platforms offer some significant benefits such as, speed, cost, scalability, accessibility and better security. As a research Cliquelog IT Solutions is selected for investigating the effectiveness of cloud and non-cloud-based solutions. These assesment will explore the current IT setup of the selected company along with proposing recommendations for service level and other aspects of cloud infrastructure.
 
 # Background of Enterprise:
