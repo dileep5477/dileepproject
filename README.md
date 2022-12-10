@@ -19,3 +19,7 @@ Cliquelog IT Solutions uses the latest operating system of Linux. Linux is extre
 •	deployment on some hardware platforms and 
 •	deployment on systems with restricted memory, storage, or processing resources.
 The organization is using this version right now and there is no security problem has been identified in it. As this organization handles a significant quantity of client’s data, the privacy element is a great problem for them that is why antivirus software is important to put in the operating system. Being informed about those is essential because security and informational elements change daily, and data loss could result from an out-of-date system. Security is the second most crucial element so e very small or medium organization can benefit from taking some steps to increase business security.
+
+#Recommendation: 
+The contrast of cloud vs non-cloud:
+The location of the program is essentially that makes cloud-based software different from on-premises software(non-cloud). Cloud software is hosted on the user's server and accessed using a web browser, whereas on-premises software is locally installed on the PCs and servers of your company. A selection must consider a variety of factors in addition to accessibility, such as software ownership, cost of ownership, software upgrades, and extra services like support and implementation.
