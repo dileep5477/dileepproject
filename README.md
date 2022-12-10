@@ -23,3 +23,9 @@ The organization is using this version right now and there is no security proble
 #Recommendation: 
 The contrast of cloud vs non-cloud:
 The location of the program is essentially that makes cloud-based software different from on-premises software(non-cloud). Cloud software is hosted on the user's server and accessed using a web browser, whereas on-premises software is locally installed on the PCs and servers of our company. A selection must consider a variety of factors in addition to accessibility, such as software ownership, cost of ownership, software upgrades, and extra services like support and implementation. The main advantages of Cloud Software are affordable, predictable costa, worry free IT, high levels of security, quick deployment, and scalability but cloud can also have some drawbacks like connectivity, long term costs and less customisable.
+
+Deployment:
+Keeping in mind of security concerns and access of user’s data, cloud computing remains the number one choice for deployment as it was faster and simplified it also has more advantages when compared to non - cloud. Technically Cliquelog company gives many services to clints, so I suggest cloud deployment is best in class for technical operations and a cost saving pay per use model.
+
+Justification:
+I recommend public, private or hybrid cloud deployment for Cliquelog IT Solutions. By seeing above mentioned uses and flows cloud gives better security when compared to non-cloud and allows easy access to resources, user’s data and better cost saving as they only need to pay resources that they use.
